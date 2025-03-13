@@ -13,6 +13,3 @@ Key components:
 - Linear projection to target dimension
 - Noise-contrastive estimation loss with in-batch negatives
 - Multi-resolution loss (MRL) for supporting different embedding dimensions
-
-Author: Claude
-License: MIT
